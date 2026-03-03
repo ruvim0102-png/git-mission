@@ -1,3 +1,4 @@
-theme=light
+feature-ui
+theme=dark
 notifications=on
-
+font=medium
