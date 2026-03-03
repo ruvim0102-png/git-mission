@@ -1,3 +1,5 @@
-System v1.5
-Status: testing
-Mode: experimental
+System v2.1
+Status: working
+Mode: advanced
+Security: enabled
+UI: experimental options available
